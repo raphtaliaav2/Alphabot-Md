@@ -27,24 +27,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "karyl" //namabot kalian
-global.ownername= "ciel-sama" //nama kalian
+global.botname = "naofy" //namabot kalian
+global.ownername= "asura" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "ciel-sama@gmail.com" //bebas
+global.email = "asurakyann@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6283830811051'] //premium user
-global.owner = ["6288212912038","6283830811051"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6288983719803'] //premium user
+global.owner = ["6283177947582","6288983719803"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6288212912038" // nomor wa kalian
-global.ownernomerr = "+6288212912038" //nmr wa kalian
+global.ownernomerr = "+6283177947582" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'WhatsApp BOT Multidevice' //sticker wm ubah
-global.author = '💝karylbotz💝' //sticker wm ganti nama kalian
+global.author = 'naofybotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
